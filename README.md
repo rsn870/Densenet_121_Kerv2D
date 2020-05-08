@@ -7,10 +7,10 @@ Many applications such as Medical Imaging , Genomics and even Facial Recognition
 
 Initial results for resized Imagenet are as follows :
 
-![alt text](https://github.com/rsn870/Densenet_121_Kerv2D/blob/master/nonlinearvsconv.png?raw=true)
+![Non linearity v/s convergence](https://github.com/rsn870/Densenet_121_Kerv2D/blob/master/images/nonlinearvsconv.png?raw=true)
 
 
-![alt text](https://github.com/rsn870/Densenet_121_Kerv2D/blob/master/kernelsvsconv.png?raw=true)
+![Kernels v/s Convergence](https://github.com/rsn870/Densenet_121_Kerv2D/blob/master/images/kernelsvsconv.png?raw=true)
 
 
-![alt text](https://github.com/rsn870/Densenet_121_Kerv2D/blob/master/hypervsconv.png?raw=true)
+![Hyperparameters v/s Convergence](https://github.com/rsn870/Densenet_121_Kerv2D/blob/master/images/hypervsconv.png?raw=true)
